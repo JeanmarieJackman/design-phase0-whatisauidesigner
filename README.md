@@ -41,6 +41,7 @@ User Interface Designers are also a subset of Visual Designers, focusing exclusi
 - sustainable
 - assessable
 - and contains as little design as possible
+<br><br>
 
 
 ## UX Student Interviews ## 
@@ -62,6 +63,7 @@ by [Josh Magno](https://www.joshmagno.com/), \(Xenon cohort gradudate)\, [Vitali
 <br><br>
 
 
+
 ## Articles ##
 
 ### [What-is-a UI design?](https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc)
@@ -75,7 +77,7 @@ by [Skillcrush](https://skillcrush.com//) (15 min read) If you’re someone who 
 
 ### [Branding and UI design](https://tubikstudio.com/faq-design-role-of-branding-in-ui-design/)
 by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [Tubik Studio](https://tubikstudio.com/) (15 min read) Today’s issue of our FAQ Design Platform in Tubik Blog will concentrate on issues of the role of some visual elements of branding for creating efficient and high-quality user interface design. The answer is based on the thoughts we have provided for the question on Quora which you are always very welcome to read and where we are happy to share our ideas, knowledge, and experience. [Read more](https://tubikstudio.com/faq-design-role-of-branding-in-ui-design/)
-
+<br><br>
 
 
 
@@ -100,7 +102,7 @@ by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [
 ### [What makes a truly great logo.](https://www.youtube.com/watch?time_continue=9&v=RBTiTcHm_ac)
 (5 min) Here's how a simple mark ends up meaning something big as a great logo. Joe Posner, and Michael Bierut (designer of the Hillary Clinton logo) explain. For more from Michael Bierut on graphic design, check out his book "How to use graphic design to sell things, explain things, make things look better, make people laugh, cry, and (every once in a while) change the world. <br><br>
 <a href="https://www.youtube.com/watch?v=RBTiTcHm_ac"><img src="https://img.youtube.com/vi/RBTiTcHm_ac/0.jpg" width="420"></a>
-
+<br><br>
 
 
 
