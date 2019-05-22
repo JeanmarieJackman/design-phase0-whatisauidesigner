@@ -13,14 +13,14 @@ UI designers are responsible for shaping the fine **look and feel** of a product
 
 What do the terms **graphic design, branding design, web design** and **visual design** mean for UI designers? Most of them are foundational to what UI Designers do. Graphic Design is generally tied to print design, design that is seen on paper or physical spaces but having these fundamental design skills can be helpful to a UI Designer. Branding Design is focused on logo and the visual experience of a company which could be static or digital. A good UI Designer will understand how to extend a company’s brand into their design work. Web Design is probably most similar to UI Design, as it requires the consideration of users and interfaces during the creation of a comprehensive visual product. But Web Designers are limited to the web, while UI Designers traverse beyond interface designs on the internet. 
 
-Visual Designers are often called the visual problem solvers of the design world. Not only can they bring brands to life or evolve the brand, but they can also communicate and explain design concepts and the decisions behind their work. A strong Visual Designer probably has a solid understanding of user experience, which allows them to to follow the user journey of a brand. 
+Visual Designers are often called the visual problem solvers of the design world. Not only can they bring brands to life or evolve the brand, but they can also communicate and explain design concepts and the decisions behind their work. A strong Visual Designer probably has a solid understanding of user experience, which allows them to follow the user journey of a brand. 
 
 Web designers are a subset of Visual Designers, focused exclusively on website design work.
 
 User Interface Designers are also a subset of Visual Designers, focusing exclusively on digital interfaces. This would include more than just websites.
 
 ## Part brand ambassador, part visual designer, part motion designer, UI Designers: 
-- Has solid understanding in typography, images, color, layout
+- Have a solid understanding of typography, images, color, layout
 - Understand the cultural implications of these visuals 
 - Ensure the brand is expressed in the design
 - Consider accessibility for all users
@@ -32,16 +32,16 @@ User Interface Designers are also a subset of Visual Designers, focusing exclusi
 
 **Visual and UI Designers create designs that are:**
 
-- innovative
-- useful
-- aesthetic
-- understandable
-- unobtrusive
-- honest
-- long-lasting
-- detailed
-- sustainable
-- accessible
+- Innovative
+- Useful
+- Aesthetic
+- Understandable
+- Unobtrusive
+- Honest
+- Long-lasting
+- Detailed
+- Sustainable
+- Accessible
 <br><br>
 
 
