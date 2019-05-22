@@ -1,4 +1,4 @@
-# What is a UI Designer? #
+# What is a UI Designer? 
 
 > ## Design is the silent ambassador of your brand.
 > –  Paul Rand, Art Director.
@@ -45,7 +45,7 @@ User Interface Designers are also a subset of Visual Designers, focusing exclusi
 <br><br>
 
 
-## UX Student Interviews ## 
+## UX Student Interviews 
 
 To get a better sense of UI design as it relates to the program at Flatiron School (powered by Designation), check out a few interviews from our alumni:
 
@@ -65,7 +65,7 @@ by [Josh Magno](https://www.joshmagno.com/), \(Xenon cohort gradudate)\, [Vitali
 
 
 
-## Articles ##
+## Articles 
 
 ### [What-is-a UI design?](https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc)
 by [Heath Umbach](https://www.linkedin.com/in/heathumbach/) of [Trux](https://www.truxnow.com/) (5 min read)<br> UX and UI are often lumped into product conversations as meaning the same thing. This confusion is common, even within product design circles. But conflating UI with UX, or vis versa, is problematic. They are not the same thing and can exist as mutually exclusive elements in product design. [Read more](https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc)
@@ -83,7 +83,7 @@ by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [
 
 
 
-## Videos ##
+## Videos 
 
  
 ### [Moving from graphic to digital design.](https://www.youtube.com/watch?v=2J7AXPxvEds)
@@ -107,7 +107,7 @@ by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [
 
 
 
-## Tools and Resources ##
+## Tools and Resources 
 
 <ul>
 <li><a href="https://dribbble.com/">Dribbble</a></li>
@@ -115,28 +115,28 @@ by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [
 <li><a href="http://www.goodweb.design/">Goodweb.design</a></li>
 </ul>
 
-### Online Sources for Fonts ###
+### Online Sources for Fonts
 <ul>
 <li><a href="https://typekit.com/" target="_blank" rel="noopener">Typekit</a></li>
 <li><a href="https://www.google.com/fonts" target="_blank" rel="noopener">Google Fonts</a> (free)</li>
 <li><a href="http://www.myfonts.com/bestsellers/" target="_blank" rel="noopener">MyFonts - bestsellers</a></li>
 </ul>
 
-###  Colors ###
+###  Colors 
 <ul>
 <li><a href="https://kuler.adobe.com/create/color-wheel/" target="blank">Kuler - color wheel</a></li>
 <li><a href="http://www.colourlovers.com/" target="blank">Colour Lovers - color trends</a></li>
 <li><a href="http://brandcolors.net/" target="blank">BrandColors</a></li>
 </ul>
 
-###  Icons ###
+###  Icons 
 <ul>
 <li><a href="http://fortawesome.github.io/Font-Awesome/" target="blank">FontAwesome</a> - font icons for the web</li>
 <li><a href="http://flaticons.net/" target="blank">FlatIcons</a></li>
 <li><a href="https://thenounproject.com/" target="blank">The Noun Project</a></li>
 </ul>
 
-###  Stock Photography ###
+###  Stock Photography 
 <ul>
 <li><a href="https://www.unsplash.com/" target="blank">Unsplash</a> - popular free photography resource</li>
 <li><a href="http://picjumbo.com/" target="blank">PicJumbo</a></li>
