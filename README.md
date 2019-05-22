@@ -68,16 +68,16 @@ by [Josh Magno](https://www.joshmagno.com/), \(Xenon cohort gradudate)\, [Vitali
 ## Articles ##
 
 ### [What-is-a UI design?](https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc)
-by [Heath Umbach](https://www.linkedin.com/in/heathumbach/) of [Trux](https://www.truxnow.com/)(5 min read) UX and UI are often lumped into product conversations as meaning the same thing. This confusion is common, even within product design circles. But conflating UI with UX, or vis versa, is problematic. They are not the same thing and can exist as mutually exclusive elements in product design. [Read more](https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc)
+by [Heath Umbach](https://www.linkedin.com/in/heathumbach/) of [Trux](https://www.truxnow.com/) (5 min read)<br> UX and UI are often lumped into product conversations as meaning the same thing. This confusion is common, even within product design circles. But conflating UI with UX, or vis versa, is problematic. They are not the same thing and can exist as mutually exclusive elements in product design. [Read more](https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc)
 
 ### [A comprehensive guide to UI design](https://www.smashingmagazine.com/2018/02/comprehensive-guide-ui-design/)
-by Christopher Murphy (Links to an external site.) of [Ulster](https://www.ulster.ac.uk/) (18 min read) UX, IA, UI: All of these abbreviations can be confusing. In reality, as designers, we’ll often be working across these different specialisms: designing the overall user experience (UX), organizing information logically as we consider information architecture (IA), and considering the granular design of the user interface (UI). [Read more](https://www.smashingmagazine.com/2018/02/comprehensive-guide-ui-design/)
+by Christopher Murphy of [Ulster](https://www.ulster.ac.uk/) (18 min read)<br> UX, IA, UI: All of these abbreviations can be confusing. In reality, as designers, we’ll often be working across these different specialisms: designing the overall user experience (UX), organizing information logically as we consider information architecture (IA), and considering the granular design of the user interface (UI). [Read more](https://www.smashingmagazine.com/2018/02/comprehensive-guide-ui-design/)
 
 ### [Graphic Design, UI Design, Visual Design, and Web Design—What’s the Difference?](https://skillcrush.com/2016/05/31/what-is-visual-design/)
-by [Skillcrush](https://skillcrush.com//) (15 min read) If you’re someone who has a background (or even an interest) in graphic design or digital design, some of tech’s key job perks probably speak directly to you. Flexible scheduling, the opportunity to work from home or remotely anywhere in the world, starting salaries that will let you say goodbye to Cup Noodles once and for all—I bet you’re wondering where to sign up, right? [Read more](https://skillcrush.com/2016/05/31/what-is-visual-design/)
+by [Skillcrush](https://skillcrush.com//) (15 min read)<br> If you’re someone who has a background (or even an interest) in graphic design or digital design, some of tech’s key job perks probably speak directly to you. Flexible scheduling, the opportunity to work from home or remotely anywhere in the world, starting salaries that will let you say goodbye to Cup Noodles once and for all—I bet you’re wondering where to sign up, right? [Read more](https://skillcrush.com/2016/05/31/what-is-visual-design/)
 
 ### [Branding and UI design](https://tubikstudio.com/faq-design-role-of-branding-in-ui-design/)
-by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [Tubik Studio](https://tubikstudio.com/) (15 min read) Today’s issue of our FAQ Design Platform in Tubik Blog will concentrate on issues of the role of some visual elements of branding for creating efficient and high-quality user interface design. The answer is based on the thoughts we have provided for the question on Quora which you are always very welcome to read and where we are happy to share our ideas, knowledge, and experience. [Read more](https://tubikstudio.com/faq-design-role-of-branding-in-ui-design/)
+by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [Tubik Studio](https://tubikstudio.com/) (15 min read)<br> Today’s issue of our FAQ Design Platform in Tubik Blog will concentrate on issues of the role of some visual elements of branding for creating efficient and high-quality user interface design. The answer is based on the thoughts we have provided for the question on Quora which you are always very welcome to read and where we are happy to share our ideas, knowledge, and experience. [Read more](https://tubikstudio.com/faq-design-role-of-branding-in-ui-design/)
 <br><br>
 
 
@@ -87,7 +87,7 @@ by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [
 
  
 ### [Moving from graphic to digital design.](https://www.youtube.com/watch?v=2J7AXPxvEds)
-(8 min) Moving from Print Design to Digital Design (I.E. Web Design, App Design, etc…) is fun and exciting but not without it’s differences and discouragement. In this video I talk about making the move and what you can expect.  <br><br>
+(8 min) Moving from Print Design to Digital Design (I.E. Web Design, App Design, etc…) is fun and exciting but not without its differences and discouragement. In this video I talk about making the move and what you can expect.  <br><br>
 <a href="https://www.youtube.com/watch?v=2J7AXPxvEds"><img src="https://img.youtube.com/vi/2J7AXPxvEds/0.jpg" width="420"></a>
 
 #
