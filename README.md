@@ -47,7 +47,7 @@ User Interface Designers are also a subset of Visual Designers, focusing exclusi
 
 ## UX Student Interviews ## 
 
-To get a better sense of UI design as it relates to the program at Flatiron School (powered by Designation), read a few interviews from our alumni:
+To get a better sense of UI design as it relates to the program at Flatiron School (powered by Designation), check out a few interviews from our alumni:
 
 ### [From graphic design to digital design.](https://designation.io/blog/kitfrench) 
 by [Kit French](https://kitfren.ch/), \(Viridian cohort gradudate)\, [MindBody](https://software.mindbodyonline.com/)
