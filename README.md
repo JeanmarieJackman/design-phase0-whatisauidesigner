@@ -11,13 +11,14 @@ UI designers are responsible for shaping the fine **look and feel** of a product
 
 **Interaction Design (IxD)** could be a part of a UI Designer’s day-to-day responsibilities  -- but this is not always a requirement. This role focuses on how the visual design interacts with its users. For digital products or services, this includes motion design, such as animations and transitions. When talking about physical (non-digital) products, Interaction Design is about exploring how a user might interact physically with that particular product.
 
-What do the terms **graphic design, branding design, web design** and **visual design** mean for UI designers? Most of them are foundational to what UI Designers do. Graphic Design is generally tied to print design, design that is seen on paper or physical spaces but having these fundamental design skills can be helpful to a UI Designer. Branding Design is focused on logo and the visual experience of a company which could be static or digital. A good UI Designer will understand how to extend a company’s brand into their design work. Web Design is probably most similar to UI Design, as it requires the consideration of users and interfaces during the creation of a comprehensive visual product. But Web Designers are limited to the web, while UI Designers traverse beyond interface designs on the internet. 
-
-Visual Designers are often called the visual problem solvers of the design world. Not only can they bring brands to life or evolve the brand, but they can also communicate and explain design concepts and the decisions behind their work. A strong Visual Designer probably has a solid understanding of user experience, which allows them to follow the user journey of a brand. 
-
-Web designers are a subset of Visual Designers, focused exclusively on website design work.
-
-User Interface Designers are also a subset of Visual Designers, focusing exclusively on digital interfaces. This would include more than just websites.
+With all the types of design and the overlapping skills necessary for each type, it’s easy to get them mixed up. When we talk about a UI designer, we’re talking about a visual designer that understands user experience and knows a little about most things design – specifically, graphic design, branding design and web design. Although it happens often enough, a UI designer is not be confused with a graphic designer, branding designer or web designer. Rather, they possess a some of the basic skills that make each other of those designer types successful.
+ 
+So, what’s the difference between a UI designer and the other designers they share skillsets with? By each type:
+A graphic designer is generally tied exclusively to print design, rather than digital design like UI designers
+A branding designer is a logo specialist who designs the visual components of a user’s experience of a company (logo placement, colors, etc.) – either in print or online
+A web designer is focused only on designing digital websites whereas UI designers focus on all types of digital interfaces (smart watches, home appliances, kiosks, car interfaces, etc.)
+ 
+A successful UI designer will understand print design, brand extension and website creation – but none of those things are their sole focus. Instead, those design aspects and skills are utilized altogether in their day-to-day tasks to help them create better user interfaces that solve real-world problems 
 
 # Part brand ambassador, part visual designer, part motion designer, UI Designers: 
 - Have a solid understanding of typography, images, color, layout
