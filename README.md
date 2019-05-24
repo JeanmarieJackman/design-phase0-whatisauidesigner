@@ -18,7 +18,7 @@ So, what’s the difference between a UI designer and the other designers they s
 * A branding designer is a logo specialist who designs the visual components of a user’s experience of a company (logo placement, colors, etc.) – either in print or online
 * A web designer is focused only on designing digital websites whereas UI designers focus on all types of digital interfaces (smart watches, home appliances, kiosks, car interfaces, etc.)
 
-A successful UI designer will understand print design, brand extension and digital (website and other digital interfaces) creation – but none of those things are their sole focus. Instead, those design aspects and skills are utilized altogether in their day-to-day tasks to help them create better user interfaces that solve real-world problems 
+A successful UI designer will understand print design, brand extension and digital creation – but none of those things are their sole focus. Instead, those design aspects and skills are utilized altogether in their day-to-day tasks to help them create better user interfaces that solve real-world problems 
 
 # Part brand ambassador, part visual designer, part motion designer, UI Designers: 
 - Have a solid understanding of typography, images, color, layout
