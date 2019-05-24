@@ -3,7 +3,7 @@
 > ## Design is the silent ambassador of your brand.
 > –  Paul Rand, Art Director.
 
-### While everyone can point out examples of bad design, good design often goes unnoticed by users since it provides them a seamless experience. Good design is felt throughout the lifecycle of the product or service. 
+# While everyone can point out examples of bad design, good design often goes unnoticed by users since it provides them a seamless experience. Good design is felt throughout the lifecycle of the product or service. 
 
 User Interface (UI) design comes into play late in the design process, just before the product or service is handed off to developers. In UI design, all of the deliverables are exclusively **visual** and the majority of the work is the **digital** space.
 
@@ -19,7 +19,7 @@ Web designers are a subset of Visual Designers, focused exclusively on website d
 
 User Interface Designers are also a subset of Visual Designers, focusing exclusively on digital interfaces. This would include more than just websites.
 
-## Part brand ambassador, part visual designer, part motion designer, UI Designers: 
+# Part brand ambassador, part visual designer, part motion designer, UI Designers: 
 - Have a solid understanding of typography, images, color, layout
 - Understand the cultural implications of these visuals 
 - Ensure the brand is expressed in the design
@@ -45,69 +45,72 @@ User Interface Designers are also a subset of Visual Designers, focusing exclusi
 <br><br>
 
 
-## UX Student Interviews 
+# UX Student Interviews 
+<hr color="#eaecef">
 
 To get a better sense of UI design as it relates to the program at Flatiron School (powered by Designation), check out a few interviews from our alumni:
 
-### [From graphic design to digital design.](https://designation.io/blog/kitfrench) 
+## [From graphic design to digital design.](https://designation.io/blog/kitfrench) 
 by [Kit French](https://kitfren.ch/), \(Viridian cohort gradudate)\, [MindBody](https://software.mindbodyonline.com/)
 (5 min read)
 
-### [Former marketer turned digital designer.](https://designation.io/blog/interview-kate-doornbos) 
+## [Former marketer turned digital designer.](https://designation.io/blog/interview-kate-doornbos) 
 by [Kate Doornbos](https://www.linkedin.com/in/katedoornbos//), \(Topaz cohort gradudate)\, [Interior Define](https://www.interiordefine.com/)
 (5 min read)
 
 
-### [Dancing and design.](https://designation.io/blog/josh-magno) 
+## [Dancing and design.](https://designation.io/blog/josh-magno) 
 by [Josh Magno](https://www.joshmagno.com/), \(Xenon cohort gradudate)\, [Vitality Group](https://www.vitalitygroup.com/)
 (5 min read)
 <br><br>
 
 
 
-## Articles 
+# Articles 
+<hr color="#eaecef">
 
-### [What-is-a UI design?](https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc)
+## [What-is-a UI design?](https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc)
 by [Heath Umbach](https://www.linkedin.com/in/heathumbach/) of [Trux](https://www.truxnow.com/) (5 min read)<br> UX and UI are often lumped into product conversations as meaning the same thing. This confusion is common, even within product design circles. But conflating UI with UX, or vis versa, is problematic. They are not the same thing and can exist as mutually exclusive elements in product design. [Read more](https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc)
 
-### [A comprehensive guide to UI design](https://www.smashingmagazine.com/2018/02/comprehensive-guide-ui-design/)
+## [A comprehensive guide to UI design](https://www.smashingmagazine.com/2018/02/comprehensive-guide-ui-design/)
 by Christopher Murphy of [Ulster](https://www.ulster.ac.uk/) (18 min read)<br> UX, IA, UI: All of these abbreviations can be confusing. In reality, as designers, we’ll often be working across these different specialisms: designing the overall user experience (UX), organizing information logically as we consider information architecture (IA), and considering the granular design of the user interface (UI). [Read more](https://www.smashingmagazine.com/2018/02/comprehensive-guide-ui-design/)
 
-### [Graphic Design, UI Design, Visual Design, and Web Design—What’s the Difference?](https://skillcrush.com/2016/05/31/what-is-visual-design/)
+## [Graphic Design, UI Design, Visual Design, and Web Design—What’s the Difference?](https://skillcrush.com/2016/05/31/what-is-visual-design/)
 by [Skillcrush](https://skillcrush.com//) (15 min read)<br> If you’re someone who has a background (or even an interest) in graphic design or digital design, some of tech’s key job perks probably speak directly to you. Flexible scheduling, the opportunity to work from home or remotely anywhere in the world, starting salaries that will let you say goodbye to Cup Noodles once and for all—I bet you’re wondering where to sign up, right? [Read more](https://skillcrush.com/2016/05/31/what-is-visual-design/)
 
-### [Branding and UI design](https://tubikstudio.com/faq-design-role-of-branding-in-ui-design/)
+## [Branding and UI design](https://tubikstudio.com/faq-design-role-of-branding-in-ui-design/)
 by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [Tubik Studio](https://tubikstudio.com/) (15 min read)<br> Today’s issue of our FAQ Design Platform in Tubik Blog will concentrate on issues of the role of some visual elements of branding for creating efficient and high-quality user interface design. The answer is based on the thoughts we have provided for the question on Quora which you are always very welcome to read and where we are happy to share our ideas, knowledge, and experience. [Read more](https://tubikstudio.com/faq-design-role-of-branding-in-ui-design/)
 <br><br>
 
 
 
 
-## Videos 
+# Videos 
+<hr color="#eaecef">
 
  
-### [Moving from graphic to digital design.](https://www.youtube.com/watch?v=2J7AXPxvEds)
+## [Moving from graphic to digital design.](https://www.youtube.com/watch?v=2J7AXPxvEds)
 (8 min) Moving from Print Design to Digital Design (I.E. Web Design, App Design, etc…) is fun and exciting but not without its differences and discouragement. In this video I talk about making the move and what you can expect.  <br><br>
 <a href="https://www.youtube.com/watch?v=2J7AXPxvEds"><img src="https://img.youtube.com/vi/2J7AXPxvEds/0.jpg" width="420"></a>
 
 #
 
 
-### [How to design a website from wireframes](https://www.youtube.com/watch?v=j5DK9jsEaUA)
+## [How to design a website from wireframes](https://www.youtube.com/watch?v=j5DK9jsEaUA)
 (32 min) How to design a web site for a client? How do you go from wireframes to visual design? UX/UI design for Ole's Hakai Pass Salmon Fishing Lodge site. Watch how Chris Do provides feedback and art direction to designer Sharleen Chen while working on a client site. <br><br>
 <a href="https://www.youtube.com/watch?v=j5DK9jsEaUA"><img src="https://img.youtube.com/vi/j5DK9jsEaUA/0.jpg" width="420"></a>
 
 #
 
 
-### [What makes a truly great logo.](https://www.youtube.com/watch?time_continue=9&v=RBTiTcHm_ac)
+## [What makes a truly great logo.](https://www.youtube.com/watch?time_continue=9&v=RBTiTcHm_ac)
 (5 min) Here's how a simple mark ends up meaning something big as a great logo. Joe Posner, and Michael Bierut (designer of the Hillary Clinton logo) explain. For more from Michael Bierut on graphic design, check out his book "How to use graphic design to sell things, explain things, make things look better, make people laugh, cry, and (every once in a while) change the world. <br><br>
 <a href="https://www.youtube.com/watch?v=RBTiTcHm_ac"><img src="https://img.youtube.com/vi/RBTiTcHm_ac/0.jpg" width="420"></a>
 <br><br>
 
 
-
-## Tools and Resources 
+# Tools and Resources 
+<hr color="#eaecef">
 
 <ul>
 <li><a href="https://dribbble.com/">Dribbble</a></li>
@@ -115,28 +118,28 @@ by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [
 <li><a href="http://www.goodweb.design/">Goodweb.design</a></li>
 </ul>
 
-### Online Sources for Fonts
+## Online Sources for Fonts
 <ul>
 <li><a href="https://typekit.com/" target="_blank" rel="noopener">Typekit</a></li>
 <li><a href="https://www.google.com/fonts" target="_blank" rel="noopener">Google Fonts</a> (free)</li>
 <li><a href="http://www.myfonts.com/bestsellers/" target="_blank" rel="noopener">MyFonts - bestsellers</a></li>
 </ul>
 
-###  Colors 
+##  Colors 
 <ul>
 <li><a href="https://kuler.adobe.com/create/color-wheel/" target="blank">Kuler - color wheel</a></li>
 <li><a href="http://www.colourlovers.com/" target="blank">Colour Lovers - color trends</a></li>
 <li><a href="http://brandcolors.net/" target="blank">BrandColors</a></li>
 </ul>
 
-###  Icons 
+##  Icons 
 <ul>
 <li><a href="http://fortawesome.github.io/Font-Awesome/" target="blank">FontAwesome</a> - font icons for the web</li>
 <li><a href="http://flaticons.net/" target="blank">FlatIcons</a></li>
 <li><a href="https://thenounproject.com/" target="blank">The Noun Project</a></li>
 </ul>
 
-###  Stock Photography 
+##  Stock Photography 
 <ul>
 <li><a href="https://www.unsplash.com/" target="blank">Unsplash</a> - popular free photography resource</li>
 <li><a href="http://picjumbo.com/" target="blank">PicJumbo</a></li>
