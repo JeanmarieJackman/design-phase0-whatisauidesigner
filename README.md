@@ -55,17 +55,17 @@ A successful UI designer will understand print design, brand extension and digit
 
 To get a better sense of UI design as it relates to the program at Flatiron School (powered by Designation), check out a few interviews from our alumni:
 
-## [From graphic design to digital design.](https://designation.io/blog/kitfrench) 
-by [Kit French](https://kitfren.ch/), \(Viridian cohort gradudate)\, [MindBody](https://software.mindbodyonline.com/)
+[From graphic design to digital design.](https://designation.io/blog/kitfrench) 
+by [Kit French](https://kitfren.ch/), \(Viridian cohort gradudate), [MindBody](https://www.mindbodyonline.com)
 (5 min read)
 
-## [Former marketer turned digital designer.](https://designation.io/blog/interview-kate-doornbos) 
-by [Kate Doornbos](https://www.linkedin.com/in/katedoornbos//), \(Topaz cohort gradudate)\, [Interior Define](https://www.interiordefine.com/)
+[Former marketer turned digital designer.](https://designation.io/blog/interview-kate-doornbos) 
+by [Kate Doornbos](https://www.linkedin.com/in/katedoornbos), \(Topaz cohort gradudate), [Interior Define](https://www.interiordefine.com/)
 (5 min read)
 
 
-## [Dancing and design.](https://designation.io/blog/josh-magno) 
-by [Josh Magno](https://www.joshmagno.com/), \(Xenon cohort gradudate)\, [Vitality Group](https://www.vitalitygroup.com/)
+[Dancing and design.](https://designation.io/blog/josh-magno) 
+by [Josh Magno](https://www.joshmagno.com/), \(Xenon cohort gradudate), [Vitality Group](https://www.vitalitygroup.com/)
 (5 min read)
 <br><br>
 
